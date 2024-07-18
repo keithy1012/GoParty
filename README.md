@@ -13,10 +13,3 @@ GoParty is a dynamic web application built on the MERN stack (MongoDB, Express.j
 * Frontend: React.js, Bootstrap
 * Backend: Node.js, Express.js
 * Database: MongoDB
-* Authentication: JSON Web Tokens (JWT)
-
-## Acknowledgements ##
-* MongoDB
-* Express.js
-* React
-* Node.js
